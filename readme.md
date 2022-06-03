@@ -27,3 +27,5 @@ Usaremos **Git Add .** para que se actualizen al repositorio los ficheros añadi
 
 4. En este paso necesitaremos crear el repositorio en alguna nube de GIT, en mi caso crearé un repositorio en GitHub y copiaré el enlace para linkearlo con el siguiente comando **git remote add "NombreDelRepo" "URL"**
 con el comando **git Branch -M main** seleccionaremos la rama principal del repositorio y ya prodremos hacer **git push -u origin main** Y tenerlo en nuestro repositorio de GitHub.
+
+Espero que les haya servido, un saludo.

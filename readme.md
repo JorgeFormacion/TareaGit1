@@ -5,7 +5,7 @@
 
 _Curso de formación_ - **T-System**
 
->“Los españoles son muy españoles y mucho españoles ” – Mariano Rajoy 💀
+>“Los españoles son muy españoles y mucho españoles ” – Mariano Rajoy 🤔
 
 1. Crear repositorio
 2. Incluirlos en repositorio
